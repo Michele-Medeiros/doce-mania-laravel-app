@@ -12,9 +12,9 @@
 Aplicação feita com lavaravel, que realizada CRUD usuários e produtos. O crud dos usuários foi realizado a partir do uso de backpack, equanto o de produtos foi feito de maneira manual. Além disso, a aplicação conta com um banco de dados  MySQL e autenticação de usuários com diferentes papéis.
 
 ### CRUD usuários 
-![alt text](img/crud_usuarios.jpeg)
+![alt text](crud_usuarios.jpeg)
 
 ### CRUD produtos 
-![alt text](img/crud_produtos.jpeg)
+![alt text](crud_produtos.jpeg)
 
 
